@@ -4,13 +4,9 @@ All files were committed and pushed using **Windows PowerShell terminal**.
 
 ## 📸 Proof Screenshots
 
-![Proof 2](proof2.png)
-
-![Proof 3](proof3.png)
-
-![Proof 5](proof5.png)
-
-## ✅ Verification
+![Proof 2](screenshots/proof2.png)
+![Proof 3](screenshots/proof3.png)
+![Proof 5](screenshots/proof5.png)
 
 | | |
 |---|---|
